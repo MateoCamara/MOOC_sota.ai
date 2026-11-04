@@ -1,0 +1,37 @@
+{
+  "tema": "Técnicas de estudio basadas en evidencia científica",
+  "audiencia": "Estudiantes universitarios de ingeniería",
+  "objetivo": "Proporcionar a los estudiantes de ingeniería técnicas de estudio específicas, validadas científicamente, que mejoren su rendimiento académico, comprensión de conceptos complejos y habilidades de resolución de problemas.",
+  "alcance": {
+    "incluye": [
+      "Técnicas de estudio basadas en psicología cognitiva y pedagogía (como la recuperación activa, la repetición espaciada, la práctica de examen, el aprendizaje metacognitivo).",
+      "Aplicación de estas técnicas a la comprensión de conceptos teóricos y prácticos en diferentes ramas de la ingeniería.",
+      "Evaluación de la efectividad de dichas técnicas en comparación con métodos tradicionales.",
+      "Consideración de factores como la carga de trabajo, el estrés y las diferencias individuales en el contexto universitario de ingeniería."
+    ],
+    "excluye": [
+      "Métodos de estudio no basados en evidencia (como el simple relectura, el resumen extenso sin práctica activa).",
+      "Técnicas que no están directamente relacionadas con la adquisición de conocimientos técnicos o habilidades de resolución de problemas en ingeniería.",
+      "Implementación de estrategias sin una base empírica que demuestre su eficacia en estudiantes universitarios de ingeniería."
+    ]
+  },
+  "subpreguntas": [
+    "¿Cuáles son las técnicas de estudio basadas en evidencia (como recuperación activa, repetición espaciada, práctica de examen) más efectivas para dominar conceptos matemáticos y científicos en estudiantes de ingeniería?",
+    "¿Cómo pueden adaptarse las técnicas de aprendizaje basadas en evidencia (por ejemplo, el aprendizaje basado en problemas o la metacognición) a diferentes asignaturas de ingeniería (electrónica, mecánica, etc.)?",
+    "¿Cuál es la diferencia de efectividad entre las técnicas de estudio basadas en evidencia y los métodos tradicionales (como la mera memorización o el estudio en grupo sin estrategia) en el contexto de asignaturas prácticas de ingeniería?",
+    "¿Qué factores (como la carga académica, la motivación o las diferencias individuales) influyen en la adopción y efectividad de las técnicas basadas en evidencia por parte de los estudiantes de ingeniería?",
+    "¿Cómo afectan las técnicas de estudio basadas en evidencia (especialmente las que implican práctica y resolución de problemas) el rendimiento a largo plazo y la capacidad de aplicación de los conocimientos en tareas de diseño o resolución de problemas reales?"
+  ],
+  "palabras_clave": [
+    "Recuperación activa",
+    "Repetición espaciada",
+    "Práctica de examen",
+    "Metacognición",
+    "Aprendizaje basado en problemas"
+  ],
+  "riesgos_y_sesgos": [
+    "Sesgo de confirmación: Se podría favorecer la evidencia que confirma las técnicas ya conocidas, ignorando estudios que las cuestionen.",
+    "Sesgo de recuerdo: La búsqueda de información podría estar sesgada hacia estudios publicados en revistas de alto impacto, subestimando evidencia válida de fuentes menos visibles.",
+    "Simplificación excesiva: Las técnicas pueden presentarse de manera demasiado generalizada, sin considerar las necesidades específicas y contextos particulares de diferentes ramas de la ingeniería."
+  ]
+}

@@ -1,0 +1,13 @@
+# Librerías de Python necesarias para los scripts del curso SOTA.ai
+# Instalación (con el entorno virtual activado):  pip install -r requirements.txt
+#
+# Los límites superiores (<) evitan que una versión nueva con cambios
+# incompatibles rompa los scripts a mitad de curso.
+
+pandas>=2.0,<4      # Tablas y Excel (todos los módulos)
+openpyxl>=3.1,<4    # Leer y escribir archivos .xlsx (lo usa pandas)
+requests>=2.31,<3   # Peticiones HTTP: descarga de PDFs (M2) y API REST de Ollama (M3)
+arxiv>=2.1,<5       # Búsqueda de artículos en arXiv (M2)
+ollama>=0.5,<1      # Cliente de Ollama para Python (M4 y M5)
+pypdf>=4.0,<7       # Extraer el texto de los PDFs (M5)
+pyzotero>=1.5,<2    # API web de Zotero (M8)

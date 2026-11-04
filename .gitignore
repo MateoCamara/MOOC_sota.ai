@@ -1,0 +1,26 @@
+# --- PDFs descargados de arXiv (Módulo 2) ---
+# No se redistribuyen: cada alumno los descarga ejecutando el script del Módulo 2.
+modulo 2/pdfs/
+
+# --- Salida del Módulo 5: cada alumno la genera con sus PDFs ---
+modulo 5/articulos_clasificacion_final.xlsx
+
+# --- Archivos temporales de Excel/Office (se crean al tener un .xlsx abierto) ---
+~$*
+
+# --- Copias de seguridad que crean los scripts si el Excel de salida está abierto ---
+*_[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]-[0-9][0-9][0-9][0-9][0-9][0-9].xlsx
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# --- Sistema operativo y editores ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

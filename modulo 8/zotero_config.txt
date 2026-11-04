@@ -1,0 +1,29 @@
+# =====================================================================
+# Configuración de Zotero para exportar_zotero.py (Módulo 8)
+# =====================================================================
+# Las líneas que empiezan por # son comentarios y el script las ignora.
+#
+# Cómo rellenar este archivo:
+#   1. Entra en https://www.zotero.org/settings/keys (con tu cuenta de Zotero).
+#   2. library_id: es el número que aparece en la frase
+#      "Your user ID for use in API calls is XXXXXXX".
+#   3. api_key: pulsa "Create new private key" y marca
+#      "Allow library access" y "Allow write access".
+#      Sin permiso de escritura el script no puede subir artículos.
+#   4. library_type: 'user' para tu biblioteca personal o 'group' para la
+#      biblioteca de un grupo (en ese caso library_id es el número del grupo,
+#      el que aparece en la URL del grupo en zotero.org).
+#
+# IMPORTANTE: tu api_key es personal, como una contraseña. No la compartas,
+# no la subas a GitHub y no la incluyas en tus entregas del curso.
+
+library_id=TU_LIBRARY_ID
+library_type=user
+api_key=TU_API_KEY
+
+# (Opcional) Para guardar los artículos en una colección concreta, quita la #
+# de la línea de abajo y pon la clave de la colección. La clave son los
+# 8 caracteres que van justo después de /collections/ en la URL cuando
+# abres la colección en zotero.org:
+#   https://www.zotero.org/<tu_usuario>/collections/XXXXXXXX
+# collection_key=TU_COLLECTION_KEY

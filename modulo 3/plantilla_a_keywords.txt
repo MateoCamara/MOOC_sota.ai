@@ -1,0 +1,8 @@
+ROL: Asistente de investigacion.
+TEMA: {TEMA}
+INSTRUCCIONES:
+1) Extrae o genera entre 10 y 15 palabras clave relacionadas con el tema.
+2) Organiza en 3 grupos: Nucleo (5) | Sinonimos (5) | Exclusiones (5).
+3) Idioma: {IDIOMA}. Rigor academico.
+4) Responde SOLO con una tabla Markdown con columnas: Grupo | Termino | Nota.
+No incluyas ningun texto antes ni despues de la tabla.

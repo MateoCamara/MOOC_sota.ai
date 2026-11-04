@@ -1,0 +1,51 @@
+{
+  "titulo": "Técnicas de Estudio Basadas en Evidencia Científica",
+  "resumen_100_palabras": "Este documento presenta técnicas de estudio validadas por la investigación científica. Se analizan métodos como la práctica espaciada, la recuperación forzada, la práctica de problemas, la interleaved practice y la elaboración. Se enfatiza la importancia de la comprensión profunda, la práctica activa y la retroalimentación. Además, se incluyen criterios para evaluar la calidad de las estrategias de aprendizaje.",
+  "secciones": [
+    {
+      "nombre": "Introducción",
+      "objetivo": "Presentar el concepto de técnicas de estudio basadas en evidencia y su importancia.",
+      "puntos": [
+        "Definición de técnicas de estudio basadas en evidencia.",
+        "Diferencia entre métodos tradicionales y métodos comprobados científicamente.",
+        "Importancia de utilizar estrategias con respaldo empírico para mejorar el aprendizaje."
+      ]
+    },
+    {
+      "nombre": "Técnicas de Estudio Efectivas",
+      "objetivo": "Detallar las principales técnicas de estudio respaldadas por la investigación.",
+      "puntos": [
+        "Práctica espaciada (spaced repetition).",
+        "Recuperación forzada (retrieval practice).",
+        "Práctica de problemas (problem-solving practice).",
+        "Interleave practice (mezcla de tipos de problemas).",
+        "Elaboración (elaboration).",
+        "Explicación (explain)."
+      ]
+    },
+    {
+      "nombre": "Estrategias de Aprendizaje",
+      "objetivo": "Explicar cómo implementar estas técnicas en diferentes contextos educativos.",
+      "puntos": [
+        "Integración de técnicas en rutinas de estudio.",
+        "Adaptación de las técnicas a distintos tipos de materia y estudiantes.",
+        "Importancia de la práctica constante y la aplicación práctica.",
+        "Uso de herramientas y recursos que faciliten la implementación."
+      ]
+    },
+    {
+      "nombre": "Cómo Evaluar la Evidencia",
+      "objetivo": "Proporcionar criterios para determinar si una técnica de estudio es basada en evidencia.",
+      "puntos": [
+        "Presencia de estudios empíricos a gran escala.",
+        "Robustez de la metodología de los estudios.",
+        "Repetibilidad y efectividad demostrada en diferentes contextos."
+      ]
+    }
+  ],
+  "criterios_de_calidad": [
+    "La técnica debe estar respaldada por múltiples estudios empíricos publicados en revistas de investigación.",
+    "La metodología utilizada en los estudios debe ser rigurosa y replicable.",
+    "La efectividad de la técnica debe demostrarse en diversos contextos educativos y con diferentes tipos de materia."
+  ]
+}

@@ -1,0 +1,3 @@
+What deep learning architecture or model is used?
+What dataset is used and how many images does it contain?
+What accuracy or performance metrics are reported?

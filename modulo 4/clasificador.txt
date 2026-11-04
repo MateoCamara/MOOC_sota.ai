@@ -1,0 +1,3 @@
+Does this paper use deep learning?
+Is it related to disease detection in plants?
+Does this paper use drone or satellite imagery?

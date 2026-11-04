@@ -1,0 +1,14 @@
+ROL: Asistente de investigacion.
+TEMA: {TEMA}
+AUDIENCIA: {AUDIENCIA}
+INSTRUCCIONES:
+Devuelve SOLO un JSON valido (sin texto adicional) con estas claves exactas:
+{
+  "tema": "...",
+  "audiencia": "...",
+  "objetivo": "...",
+  "alcance": { "incluye": ["..."], "excluye": ["..."] },
+  "subpreguntas": ["(5 preguntas de investigacion)"],
+  "palabras_clave": ["(5 terminos)"],
+  "riesgos_y_sesgos": ["(3 riesgos o sesgos potenciales)"]
+}

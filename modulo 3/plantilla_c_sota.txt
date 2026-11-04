@@ -1,0 +1,12 @@
+ROL: Asistente de investigacion.
+TEMA: {TEMA}
+INSTRUCCIONES:
+Devuelve SOLO un JSON valido (sin texto adicional) con estas claves exactas:
+{
+  "titulo": "...",
+  "resumen_100_palabras": "...",
+  "secciones": [
+    { "nombre": "...", "objetivo": "...", "puntos": ["..."] }
+  ],
+  "criterios_de_calidad": ["(3 criterios)"]
+}

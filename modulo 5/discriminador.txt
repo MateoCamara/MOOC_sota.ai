@@ -1,0 +1,2 @@
+Does this paper use deep learning?=YES
+Is it related to disease detection in plants?=YES
